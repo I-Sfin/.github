@@ -85,7 +85,7 @@
 
 ## 📑 ERD 
 
-![ounwan_ERD](https://github.com/I-Sfin/.github/assets/113325061/87766429-e568-417f-b77c-c3ecdb37f505)
+![isfin_ERD](https://github.com/I-Sfin/.github/assets/113325061/14c0f44c-d131-49b5-863c-672960d97848)
 
 ## ✨ 서비스 소개
 <img width="1086" alt="스크린샷 2024-03-23 오후 5 47 32" src="https://github.com/I-Sfin/.github/assets/113325061/da2d6a17-6cbc-443e-a957-8d3f6b1cecbc">
