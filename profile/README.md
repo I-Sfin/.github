@@ -10,7 +10,7 @@
 
 **🎇 Slogan**
 
-**슬로건 생각해주세요오오**
+**우리 아이 경제 첫거름 '아이스핀'과 함께~**
 
 
 **❓ 기획 배경**
@@ -21,8 +21,9 @@
 
 <p align="center"><img width="1088" alt="스크린샷 2024-03-22 오후 5 07 59" src="https://github.com/I-Sfin/.github/assets/113325061/56f4f1fe-90da-4940-87e8-b59e1839039d"></p>
 
-<p align="center"><strong>아이스핀 소개 문구</strong></p>
-
+<p align="center"><strong>'아이스핀'은 아이의 경제 교육 첫 걸음을 도와드리는 서비스 입니다.</strong></p>
+<p align="center"><strong>우리 아이의 소비 계쇡, 지출 확인은 물론 퀴즈, 동영상으로 경제 학습까지 가능합니다.</strong></p>
+<p align="center"><strong>더불어 미션을 통해 부모와 아이의 긍정적인 유대관계 형성에 기여합니다.</strong></p>
 
 ## 🤝 협업 과정
 
